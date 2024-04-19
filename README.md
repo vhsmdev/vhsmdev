@@ -9,7 +9,7 @@
 
 - 📫 Como entrar em contato comigo **vinicius@startz.space**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vhsmdev/](https://www.linkedin.com/in/vhsmdev/)
+- 📄 Saiba sobre minhas experiência [https://www.linkedin.com/in/vhsmdev/](https://www.linkedin.com/in/vhsmdev/)
 
 - ⚡ Fun fact **Aprendi Python para automatizar jogos**
 
