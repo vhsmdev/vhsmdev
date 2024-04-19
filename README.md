@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://vinicius.startz.space/](https://vinicius.startz.space/)
 
-- 💬 Pergunte-me sobre **Python; Power BI; Analise de Dados**
+- 💬 Pergunte-me sobre **Python; Power BI; Analise de Dados; SQL**
 
 - 📫 Como entrar em contato comigo **vinicius@startz.space**
 
