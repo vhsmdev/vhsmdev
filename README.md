@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Aprendi Python para automatizar jogos**
 
-<h3 align="left">Ultimas Postagens</h3>
+<h3 align="left">Ultimos Artigos</h3>
 
 [![vhsmdev Medium](https://github-readme-medium.vercel.app/?username=vhsmdev&limit=4)](https://medium.com/@vhsmdev)
 
