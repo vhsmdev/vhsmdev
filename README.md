@@ -15,7 +15,7 @@
 
 <h3 align="left">Ultimos Artigos</h3>
 
-[![vhsmdev Medium](https://github-readme-medium.vercel.app/?username=vhsmdev&limit=4)](https://medium.com/@vhsmdev)
+[![Vinicius Moreira](https://github-readme-medium.vercel.app/?username=vhsmdev)](https://medium.com/@vhsmdev)
 
 <h3 align="left">Conecte-se Comigo:</h3>
 <p align="left">
